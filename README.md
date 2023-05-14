@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://ibrahimsadixov.github.io/IbrahimSadikhov/"><img src="https://ibrahimsadixov.github.io/IbrahimSadikhov/assets/images/content.png" />
-  <br /><b>metw.cc</b></a><br /><br /><br />
+  <br /><b>ibrahimsadixov.github.io/IbrahimSadikhov/)</b></a><br /><br /><br />
 </div>
 
  
