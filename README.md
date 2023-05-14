@@ -5,7 +5,7 @@
   </div>
 
 <div align="center">
-  <a href="https://ibrahimsadixov.github.io/IbrahimSadikhov/"><img src="https://ibrahimsadixov.github.io/IbrahimSadikhov/assets/images/content.png" />
+  <a href="https://ibrahimsadixov.github.io/IbrahimSadikhov/"><img src="https://ibrahimsadixov.github.io/IbrahimSadikhov/assets/images/portfolioLogo.png" />
   <br /><b>ibrahimsadixov.github.io/IbrahimSadikhov/)</b></a><br /><br /><br />
 </div>
 
