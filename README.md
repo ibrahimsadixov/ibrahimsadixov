@@ -8,7 +8,3 @@
   <a href="https://ibrahimsadixov.github.io/IbrahimSadikhov/"><img height="120" width="100" src="https://ibrahimsadixov.github.io/IbrahimSadikhov/assets/images/portfolioLogo.png" />
   <br /><b>ibrahimsadixov.github.io/IbrahimSadikhov/)</b></a><br /><br /><br />
 </div>
-<script>
-  const s = document.getElementById("s");
-  s.innerHTML="salam"
-</script>
