@@ -1,7 +1,6 @@
 <div align="center">
 
 <h1 align="center">Ibrahim Sadikhov</h1>
-<h3 align="center">Developer who loves JavaScript</h3>
   </div>
 
 <div align="center">
